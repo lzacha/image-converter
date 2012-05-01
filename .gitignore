@@ -10,3 +10,7 @@
 *.lai
 *.la
 *.a
+
+#Dev C++ Files
+*.dev
+*.win
