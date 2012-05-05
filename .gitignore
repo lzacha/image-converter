@@ -12,5 +12,5 @@
 *.a
 
 #Dev C++ Files
-*.dev
-*.win
+#*.dev
+#*.win
