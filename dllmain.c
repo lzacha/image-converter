@@ -10,6 +10,7 @@ DLLIMPORT void HelloWorld ()
     MessageBox (0, "Hello World from DLL!\n", "Hi", MB_ICONINFORMATION);
 }
 
+/* Prueba MM */
 
 BOOL APIENTRY DllMain (HINSTANCE hInst     /* Library instance handle. */ ,
                        DWORD reason        /* Reason this function is being called. */ ,
